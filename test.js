@@ -1,3 +1,4 @@
+//to generate results
 import { generateUniqueID, addAccount } from './index.js';
 
 console.log(generateUniqueID("Alan", "Turing"));
