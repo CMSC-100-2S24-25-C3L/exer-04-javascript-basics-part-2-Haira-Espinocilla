@@ -5,6 +5,6 @@ Section: C-3L
 
 Degree Program: BS Computer Science
 
-Live Website Link: 
+Repo Link: https://github.com/CMSC-100-2S24-25-C3L/exer-04-javascript-basics-part-2-Haira-Espinocilla.git
 
 Key Takeaways: You have to be mindful of your import formats
